@@ -298,7 +298,7 @@ if (browser == "mobile")
 
 var scene_0_1_tl = new TimelineMax()
     .to("#title", 1, {left: '30%', opacity: 0}, 'start')
-    .fromTo("#bannerContainer", 1, {top: '120%'}, {top: '10%'}, 'start')
+    .fromTo("#bannerContainer", 1, {top: '120%'}, {top: '20%'}, 'start')
     .to('#indicator', 1, {right: '16px'}, 'start')
     .to("#scroll-downs", 1, {opacity: 0}, 'start');
 
