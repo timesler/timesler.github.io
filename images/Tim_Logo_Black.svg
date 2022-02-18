@@ -5,9 +5,9 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 -10 140 130"
-    height="114.81333"
-    width="140.69336"
+    viewBox="0 -20 80 140"
+    height="120"
+    width="80"
     xml:space="preserve"
     id="svg2"
     version="1.1">
@@ -20,18 +20,11 @@
         </rdf:RDF>
     </metadata>
     <defs id="defs6" />
-    <g transform="matrix(1.3333333,0,0,-1.3333333,0,125.81333)" id="g10">
+    <g transform="matrix(1.3333333,0,0,-1.3333333,0,50.0)" id="g10">
         <g transform="scale(0.1)" id="g12">
             <path class="pathAppear" id="rs_path"
-                style="fill:none;stroke:#191919;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-                d="M 85.1719,488.332 478.656,303.961 V 537.863 H 963.52 L 698.688,757.266 h 239.437" />
-            <circle class="loadCirclesL" id="circ1" style="fill:#191919" cx="473.828" cy="303.961" r="85.172" />
-            <circle class="loadCirclesL" id="circ2" style="fill:#191919" cx="84.348" cy="488.332" r="85.172" />
-            <circle class="loadCirclesS" id="circ3" style="fill:#191919" cx="479.25" cy="537.863" r="38.593" />
-            <circle class="loadCirclesM" id="circ4" style="fill:#191919" cx="698.656" cy="537.863" r="61.968" />
-            <circle class="loadCirclesL" id="circ5" style="fill:#191919" cx="940.3" cy="537.863" r="85.172" />
-            <circle class="loadCirclesL" id="circ6" style="fill:#191919" cx="698.859" cy="765.961" r="85.172" />
-            <circle class="loadCirclesS" id="circ7" style="fill:#191919" cx="956.758" cy="755.047" r="38.593" />
+                style="fill:none;stroke:#191919;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+                d="M 0,400 600,400 V 200 H 400 V -400 H 200 V 200 H 0 V 410" />
         </g>
     </g>
 </svg>
